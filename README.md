@@ -22,10 +22,10 @@ Hi, I'm Tharidu Damith!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer 
-📝 I have a strong interest in Data Science 
+💻 I am a student at SLIATE 
+📝 I have a strong interest in Data Science and Networking 
 🌟 Languages: Python, JavaScript, HTML, REACT, MYSQL
-🚩 Interested in Full Stack Web Application development
+🚩 Interested in Full Stack Web Application development and It related things
 </pre>
 <hr>
 
